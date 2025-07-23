@@ -6,7 +6,10 @@ This project predicts whether a telecom customer is likely to churn based on the
 
 ## 🚀 Live Demo
 
-🔗 [Try the App on Streamlit](https://manish1bhardwaj-customer-churn-prediction.streamlit.app/)
+## 🚀 Live Demo
+
+🔗 [Try the App on Streamlit](https://customer-churnprediction-95rsdghbnzdztf9qhsnduz.streamlit.app)
+
 
 ---
 
